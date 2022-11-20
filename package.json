@@ -2,10 +2,14 @@
   "name": "gh19009-dsi-instructoria-1",
   "version": "1.0.0",
   "description": "actividad1",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "typescript": "^4.9.3"
+  }
 }
